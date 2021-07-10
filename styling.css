@@ -1,0 +1,57 @@
+h1{
+    color: white;
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
+    background-color: darkslateblue;
+    border: 1px solid black;
+    border-radius: 8px;
+
+
+}
+
+.sub{
+
+    color: white;
+    padding: 10px;
+    margin: auto;
+    background-color: darkslateblue;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.inputs{
+    border: 1px solid darkslateblue;
+    opacity: inherit;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    width: 30%;
+    border-radius: 8px;
+}
+
+
+.others{
+    border: 1px solid darkslateblue;
+    opacity: inherit;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    width: 30%;
+    border-radius: 8px;
+
+
+}
+
+.bio{
+    border: 1px solid darkslateblue;
+    opacity: inherit;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    width: 30%;
+    border-radius: 8px;
+
+}
+
+.body{
+    background-image: url("pexels-vlad-bagacian-1368388.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
